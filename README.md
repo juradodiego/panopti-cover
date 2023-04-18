@@ -16,7 +16,7 @@ Aspirational
 
 | Back | Spine | Front |
 | --- | --- | --- |
-| | <img style="height:500px; width:50px;" src="p4-spine-1.png"> | <img style="height:500px; width:300px;" src="p4-front-3.png">|
+| | <img style="height:500px;" src="p4-spine-1.png"> | <img style="height:500px;" src="p4-front-3.png">|
 
 ## Justifications:
 
