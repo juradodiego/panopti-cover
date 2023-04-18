@@ -18,7 +18,7 @@ Aspirational
 | --- | --- | --- |
 | <img style="height:500px; width:300px;" src="p4-draft-2.png">| | |
 
-Justifications:
+## Justifications:
 
 - Font:
 
@@ -28,5 +28,7 @@ Justifications:
   - Black: I wanted to incorporate the color black into the cover, as it is the color of the factory workers. So, it resembles equality. Also, black looks good with most other colors, especially bright colors.
     - In Color Theory, black is commonly associated with power, elegance, and formality. On the other hand, it can also be associated with evil, death, and mystery. The use of black here thought, I believe, represents mystery for the reader first glancing at the book, and the metaphorical death of humans portrayed in the book.
 
-- Image:
+- Image: 
+  The image is fairly simple, but this allows for two key focuses of mine. As a book cover, a simple image means an easier print. If this were to be produced en masse it would severely reduce the overall cost (A good thing). Second, it allows for more reader interpretation. As of writing this, I have show the cover to several people, and they have all mentioned varying objects that carry a similar theme. My intention was to include an aerial view of the Panopticon in the form of a mobile phone app icon. However, several friends have stated it looks like a keyhole, a person, a chess pawn piece, or the opening to a 007 movie. All of these objects carry a common theme of opression to some extent - keyhole: key and a lock; a person: opressor and opressed; a chess pawn: a pawn in a larger game; 007 opening: someone being hunted and killed;
+  
 
